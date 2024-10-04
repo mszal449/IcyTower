@@ -1,0 +1,5 @@
+resolution fullscreen
+difficulty medium
+particles lots
+volume 0.5
+combo_caption on
